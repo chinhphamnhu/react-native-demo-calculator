@@ -2,7 +2,8 @@
 
 # Concept
 
-[!](https://cdn.dribbble.com/users/3452339/screenshots/6503331/d004.gif)
+![](https://github.com/chinhphamnhu/react-native-demo-calculator/raw/master/assets/concept.gif)
 
 # Demo
-[!]()
+
+![](https://github.com/chinhphamnhu/react-native-demo-calculator/raw/master/assets/demo.png)
